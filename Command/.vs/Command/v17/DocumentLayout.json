@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\persistence\\commandhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:persistence\\commandhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\invoker\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:invoker\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\devices\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:devices\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\devices\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:devices\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\devices\\ceilingfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:devices\\ceilingfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\devices\\garagedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:devices\\garagedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\devices\\hottub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:devices\\hottub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\devices\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:devices\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\tvoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\tvoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\tvoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\tvoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\soundoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\soundoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\soundoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\soundoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\loadcommandscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\loadcommandscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\devicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\devicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\securitycontroldisarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\securitycontroldisarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\securitycontrolarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\securitycontrolarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\hottuboffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\hottuboffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\hottuboncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\hottuboncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\garagedoordowncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\garagedoordowncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\garagedoorupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\garagedoorupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\ceilingfanoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\ceilingfanoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\ceilingfanhighcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\ceilingfanhighcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\lightoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\lightoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\commands\\lightoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:commands\\lightoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\command\\devices\\securitycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568261E1-FE93-4103-9081-F3BE973C5986}|Command.csproj|solutionrelative:devices\\securitycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\Light.cs",
+              "RelativeDocumentMoniker": "Devices\\Light.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\Light.cs",
+              "RelativeToolTip": "Devices\\Light.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:55:09.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hottub.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\Hottub.cs",
+              "RelativeDocumentMoniker": "Devices\\Hottub.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\Hottub.cs",
+              "RelativeToolTip": "Devices\\Hottub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:55:02.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GarageDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\GarageDoor.cs",
+              "RelativeDocumentMoniker": "Devices\\GarageDoor.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\GarageDoor.cs",
+              "RelativeToolTip": "Devices\\GarageDoor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:54:56.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CeilingFan.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\CeilingFan.cs",
+              "RelativeDocumentMoniker": "Devices\\CeilingFan.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\CeilingFan.cs",
+              "RelativeToolTip": "Devices\\CeilingFan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:54:50.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\Sound.cs",
+              "RelativeDocumentMoniker": "Devices\\Sound.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\Sound.cs",
+              "RelativeToolTip": "Devices\\Sound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:55:21.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TV.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\TV.cs",
+              "RelativeDocumentMoniker": "Devices\\TV.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\TV.cs",
+              "RelativeToolTip": "Devices\\TV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:55:27.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:37:35.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteControl.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Invoker\\RemoteControl.cs",
+              "RelativeDocumentMoniker": "Invoker\\RemoteControl.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Invoker\\RemoteControl.cs",
+              "RelativeToolTip": "Invoker\\RemoteControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:55:34.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Persistence\\CommandHistory.cs",
+              "RelativeDocumentMoniker": "Persistence\\CommandHistory.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Persistence\\CommandHistory.cs",
+              "RelativeToolTip": "Persistence\\CommandHistory.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:55:41.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\ICommand.cs",
+              "RelativeToolTip": "Commands\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:52:30.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TVOnCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\TVOnCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\TVOnCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\TVOnCommand.cs",
+              "RelativeToolTip": "Commands\\TVOnCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:54:37.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TVOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\TVOffCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\TVOffCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\TVOffCommand.cs",
+              "RelativeToolTip": "Commands\\TVOffCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:54:43.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SoundOnCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\SoundOnCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\SoundOnCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\SoundOnCommand.cs",
+              "RelativeToolTip": "Commands\\SoundOnCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:54:19.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SoundOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\SoundOffCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\SoundOffCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\SoundOffCommand.cs",
+              "RelativeToolTip": "Commands\\SoundOffCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:54:27.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeviceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\DeviceCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\DeviceCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\DeviceCommand.cs",
+              "RelativeToolTip": "Commands\\DeviceCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:52:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoadCommandsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\LoadCommandsCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\LoadCommandsCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\LoadCommandsCommand.cs",
+              "RelativeToolTip": "Commands\\LoadCommandsCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:03:58.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SecurityControlDisarmCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\SecurityControlDisarmCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\SecurityControlDisarmCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\SecurityControlDisarmCommand.cs",
+              "RelativeToolTip": "Commands\\SecurityControlDisarmCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:54:13.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SecurityControlArmCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\SecurityControlArmCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\SecurityControlArmCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\SecurityControlArmCommand.cs",
+              "RelativeToolTip": "Commands\\SecurityControlArmCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:54:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HottubOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\HottubOffCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\HottubOffCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\HottubOffCommand.cs",
+              "RelativeToolTip": "Commands\\HottubOffCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:53:59.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HottubOnCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\HottubOnCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\HottubOnCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\HottubOnCommand.cs",
+              "RelativeToolTip": "Commands\\HottubOnCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:53:33.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GarageDoorDownCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\GarageDoorDownCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\GarageDoorDownCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\GarageDoorDownCommand.cs",
+              "RelativeToolTip": "Commands\\GarageDoorDownCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:53:26.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GarageDoorUpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\GarageDoorUpCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\GarageDoorUpCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\GarageDoorUpCommand.cs",
+              "RelativeToolTip": "Commands\\GarageDoorUpCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:53:17.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CeilingFanOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\CeilingFanOffCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\CeilingFanOffCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\CeilingFanOffCommand.cs",
+              "RelativeToolTip": "Commands\\CeilingFanOffCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:53:10.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CeilingFanHighCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\CeilingFanHighCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\CeilingFanHighCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\CeilingFanHighCommand.cs",
+              "RelativeToolTip": "Commands\\CeilingFanHighCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:53:02.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LightOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\LightOffCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\LightOffCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\LightOffCommand.cs",
+              "RelativeToolTip": "Commands\\LightOffCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:52:54.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LightOnCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\LightOnCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\LightOnCommand.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Commands\\LightOnCommand.cs",
+              "RelativeToolTip": "Commands\\LightOnCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:52:48.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SecurityControl.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\SecurityControl.cs",
+              "RelativeDocumentMoniker": "Devices\\SecurityControl.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Command\\Devices\\SecurityControl.cs",
+              "RelativeToolTip": "Devices\\SecurityControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:55:15.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

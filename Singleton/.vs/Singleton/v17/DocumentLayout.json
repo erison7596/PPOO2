@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\singleton\\src\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|solutionrelative:src\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\singleton\\singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|solutionrelative:singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\singleton\\config\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|solutionrelative:config\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|c:\\users\\erison\\documents\\ifpe\\ppoo2\\singleton\\src\\models\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C036392F-280A-43A1-ADE9-FA1F25B6EE7B}|Singleton.csproj|solutionrelative:src\\models\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Singleton",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\Singleton.csproj",
+              "RelativeDocumentMoniker": "Singleton.csproj",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\Singleton.csproj",
+              "RelativeToolTip": "Singleton.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T12:33:06.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\src\\Config\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "src\\Config\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\src\\Config\\ConfigManager.cs",
+              "RelativeToolTip": "src\\Config\\ConfigManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:26:57.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\src\\Models\\GameConfig.cs",
+              "RelativeDocumentMoniker": "src\\Models\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\src\\Models\\GameConfig.cs",
+              "RelativeToolTip": "src\\Models\\GameConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:26:38.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "config.txt",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\Config\\config.txt",
+              "RelativeDocumentMoniker": "Config\\config.txt",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\Config\\config.txt",
+              "RelativeToolTip": "Config\\config.txt",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-14T12:25:01.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Erison\\Documents\\IFPE\\PPOO2\\Singleton\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:24:26.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+LightOnCommand
+CeilingFanHighCommand
+GarageDoorUpCommand
+HottubOnCommand
+SecurityControlArmCommand
+SoundOnCommand
+TVOnCommand
